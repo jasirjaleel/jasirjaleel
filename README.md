@@ -1,56 +1,43 @@
-<h1 align="center">  Hi there 👋 </h1>
+# Jasir Jaleel
 
-<h2 align="center"> 👨‍💻 IamWhoiam</h2>
-<p align="center">
-  <samp>I am an enthusiastic beginner in full-stack development, eager to explore and create
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=jr0-7" alt="https://github.com/jr0-7" />
-</p>
+**Full-Stack Developer & Automation Engineer** · Sharjah, UAE
 
-<hr>
+I build business systems end to end: the database, the API, the screens people use, and the automations that run in the background. Recent work includes CRMs, a subscription billing engine, WhatsApp AI agents and API-connected workflows.
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+Open to full-stack and automation roles in the UAE.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+## Selected work
 
-<hr>
+**[Academy Access Engine](https://github.com/jasirjaleel/academy-access-engine)** · [Live demo](https://academy-access-engine.vercel.app)
+A student dashboard with a subscription and billing engine behind it. Stripe checkout in test mode, a grace period and recovery emails when a payment fails, refunds, idempotent webhooks, and an outbox that sends signed events to n8n.
+Next.js, TypeScript, Supabase, Stripe, n8n, GitHub Actions, Vercel
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/jasir-jaleel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jasirjaleel777@gmail.com&su=Hello%20Jasir,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+**[Sales CRM](https://github.com/jasirjaleel/sales-crm)** · [Live demo](https://mysales-crm.vercel.app)
+A CRM for telecalling teams, with a pipeline, owner reports and an AI call assistant, secured with Postgres row-level security.
+React, Supabase, PostgreSQL
 
- <hr>
+**Curve CRM** (private client system)
+A browser CRM a cold-calling team used daily to work through 1,000+ leads: call queue, one-tap outcome logging, WhatsApp quick-send, CSV import and a follow-up board.
+Node.js/Express, PostgreSQL, DigitalOcean, Cloudflare Pages
 
-<img align="left" width='47%' src="https://github-readme-stats.vercel.app/api?username=jasirjaleel&show_icons=true&theme=radical" />
+**WhatsApp AI sales agents** (client work)
+n8n workflows with LLM APIs that understand Malayalam, Manglish and English, classify intent and follow up automatically.
 
-<img align="left"  width='47%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasirjaleel&layout=compact" />
+**[Vocal Scribe](https://github.com/jasirjaleel/vocal-scribe)**
+Real-time transcription and translation that runs machine learning models in the browser with web workers.
+React, JavaScript
 
+**[Pathfinding Visualizer](https://github.com/jasirjaleel/Pathfinding-Visualizer)**
+An interactive teaching tool for A*, BFS and Dijkstra's algorithms.
 
+## Stack
 
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Frameworks:** Next.js, React, Node.js/Express, Django, Flask, Tailwind CSS
+- **Data:** PostgreSQL, MySQL, Supabase
+- **Automation and APIs:** n8n, REST APIs, webhooks, WhatsApp integrations, Meta Graph API, Stripe, Claude and OpenAI APIs
+- **Infrastructure:** Git, GitHub Actions, Docker, Vercel, DigitalOcean, Cloudflare
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jasirjaleel/) · jasirjaleel777@gmail.com
